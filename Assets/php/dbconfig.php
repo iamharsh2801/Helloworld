@@ -8,4 +8,5 @@ if($dbconfig->connect_error)
 {
 	echo "Connection Failed : ".$dbconfig->connect_error;
 }
+/* Harsh */
 ?>
